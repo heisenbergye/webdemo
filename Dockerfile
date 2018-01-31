@@ -1,4 +1,4 @@
-FROM 172.20.98.102:5000/nginx:1.13.0
+FROM daocloud.io/library/nginx:1.13.0
 MAINTAINER heisenbergye@outlook.com
 ENV RUN_USER nginx 
 ENV RUN_GROUP nginx 
