@@ -1,4 +1,4 @@
-FROM daocloud.io/library/nginx:1.13.0
+FROM nginx:alpine
 MAINTAINER heisenbergye@outlook.com
 ENV RUN_USER nginx 
 ENV RUN_GROUP nginx 
